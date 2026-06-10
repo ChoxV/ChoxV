@@ -30,5 +30,5 @@ Metaheuristic optimization using ABC and Cuckoo Search algorithms.
 Python • Java • FastAPI • PostgreSQL • OpenCV
 Scikit-Learn • TensorFlow • Angular • Node.js
 
-![GitHub Stats](...)
-![Top Languages](...)
+![Chakshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoxV&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoxV&layout=compact&theme=tokyonight)
