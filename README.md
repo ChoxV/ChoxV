@@ -6,10 +6,7 @@
 🏆 DronThon Winner
 
 ## Currently Working On
-- Railway Predictive Maintenance Systems
-- Agentic AI News Feeder
-- Federated Learning for Railway Assets
-- Computer Vision Applications
+- Fifa26 Match Engine based on Mante-Carlo Analysis
 
 ## Featured Projects
 
